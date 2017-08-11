@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{31FBC45E-BEAB-4E19-B7D9-55C6A6DD9AC3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GtkUI/Parser.cs">
+    <Files>
+      <File FileName="GtkUI/Program.cs" Line="1" Column="1" />
+      <File FileName="GtkUI/MainWindow.cs" Line="12" Column="13" />
+      <File FileName="WebApplication1/Controllers/HomeController.cs" Line="16" Column="43" />
+      <File FileName="WebApplication1/Models/HomeModel.cs" Line="1" Column="11" />
+      <File FileName="GtkUI/Parser.cs" Line="49" Column="1" />
+      <File FileName="GtkUI/GeoFeature.cs" Line="6" Column="19" />
+      <File FileName="GtkUI/GeoProperties.cs" Line="10" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarrilesBici" expanded="True">
+            <Node name="GtkUI" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Parser.cs" selected="True" />
+            </Node>
+            <Node name="WebApplication1" expanded="True">
+              <Node name="DTO" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vguzman/fawques/carrilesbici/GtkUI/Parser.cs" line="37" column="1" />
+      <Breakpoint file="/Users/vguzman/fawques/carrilesbici/GtkUI/Parser.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GtkUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.WebApplication1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
